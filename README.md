@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Dina 👋</h1>
 
 <p align="center">
-  <b>TypeScript/JavaScript AI Engineer</b> · building LLM apps, agents & developer tooling<br/>
+  <b>TypeScript/JavaScript AI Engineer</b> * building LLM apps, agents & developer tooling<br/>
   I enjoy solving complex problems, simplifying intricate concepts, and helping others navigate the digital world.
 </p>
 
 ---
 
 ### 🔭 What I'm working on
-- **AI engineering in TypeScript** — LLM apps, agents, and the tooling around them (MCP servers, evals, dev tools).
-- Building small, sharp utilities that solve real problems — and shipping them in public.
+- **AI engineering in TypeScript** - LLM apps, agents, and the tooling around them (MCP servers, evals, dev tools).
+- Building small, sharp utilities that solve real problems - and shipping them in public.
 
 ### 🛠️ Tech I work with
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -20,14 +20,14 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
 ### 🤖 Focus areas
-- **LLM application engineering** — prompts, RAG, structured output, evals
-- **Agents & MCP** — the Model Context Protocol ecosystem (TypeScript-first)
-- **Node.js security** — JSNSD-style secure backend practices
-- **Cloud / AWS** — serverless, event-driven architectures
+- **LLM application engineering** - prompts, RAG, structured output, evals
+- **Agents & MCP** - the Model Context Protocol ecosystem (TypeScript-first)
+- **Node.js security** - JSNSD-style secure backend practices
+- **Cloud / AWS** - serverless, event-driven architectures
 
 ### 🌱 Currently
 Contributing to open-source AI tooling and building my own projects in public.
-Open to collaboration — feel free to reach out.
+Open to collaboration - feel free to reach out.
 
 ### 📫 Find me
 - 💼 LinkedIn: https://www.linkedin.com/in/dnafication/
