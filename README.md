@@ -30,9 +30,8 @@ Contributing to open-source AI tooling and building my own projects in public.
 Open to collaboration — feel free to reach out.
 
 ### 📫 Find me
-- 💼 LinkedIn: <!-- add your LinkedIn URL -->
-- 🐦 X: <!-- add your X handle -->
-- ✍️ Blog: <!-- add your blog URL -->
+- 💼 LinkedIn: https://www.linkedin.com/in/dnafication/
+- ✍️ Blog: <!-- TODO: add your blog URL -->
 
 ---
 
@@ -40,11 +39,3 @@ Open to collaboration — feel free to reach out.
   <img src="https://github-readme-stats.vercel.app/api?username=dnafication&show_icons=true&hide_border=true" alt="GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnafication&layout=compact&hide_border=true" alt="Top languages" height="150"/>
 </p>
-
-<!--
-HOW TO PUBLISH THIS:
-1. Create a public repo named exactly "dnafication" (matches your username).
-2. Add this file as README.md at the repo root.
-3. GitHub will render it on your profile page automatically.
-Then pin your best repos (see curation-actions.md for recommendations).
--->
